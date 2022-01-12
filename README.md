@@ -7,6 +7,7 @@
 - Controls Wemo Smart plug lighting cheerio cabinet display case
   - Turns case on and off
 - Talks to local Home Assistant Server via JSON POST requests
+- 3D printed some housing to hold it all together, made in Microsoft Builder
 
 ![Demo1](https://github.com/cr0m/4-Key-Light-Switch/blob/main/img/demo1.jpg)
 
